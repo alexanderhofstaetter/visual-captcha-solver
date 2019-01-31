@@ -2,11 +2,7 @@
 
 Script zur automatischen Lösung des [Visual Captchas](https://visualcaptcha.net/).
 
-Dieses Skript deaktiviert das Captcha und ersetzt es durch einen Anmeldebutton.
-
-![](demonstration.gif?raw=true)
-
-Die Captcha Bilder sind ursprünglich unter [desirepath41/visualCaptcha-PHP](https://github.com/desirepath41/visualCaptcha-PHP/tree/v4.2.0/images) zu finden. Außerdem sind sie in diesem Repository.
+Dieses Skript deaktiviert das Captcha und ersetzt es durch einen Anmeldebutton. Die Captcha Bilder sind ursprünglich unter [desirepath41/visualCaptcha-PHP](https://github.com/desirepath41/visualCaptcha-PHP/tree/v4.2.0/images) zu finden. Außerdem sind sie in diesem Repository.
 
 ## Installation
 Das Skript muss im Browser eingebunden werden. Am einfachsten geht dies per Plugin. Für FireFox z.B.: [Custom Style Script](https://addons.mozilla.org/de/firefox/addon/custom-style-script/) oder für Chrome: [Custom JavaScript for websites](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija). 
