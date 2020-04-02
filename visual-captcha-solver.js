@@ -30,6 +30,7 @@ var images = {
 	'den-stift': 'pencil',
 	'den-umschlag': 'envelope',
 	'den-wecker': 'clock',
+	'die-uhr': 'clock',
 	'die-ballone': 'balloons',
 	'die-büroklammer': 'clip',
 	'die-flagge': 'flag',
